@@ -5,6 +5,7 @@
 
 <div align = "center">
 ![NaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrskdusdlqslek&show_icons=true&theme=radical)
+</div>
 
 <div align = "center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
