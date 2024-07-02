@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=52" />
 
 ---
+<a href=""><img src="https://github.com/qkrskdusdlqslek/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrskdusdlqslek&count_bg=%23DD2476&title_bg=%23000000&icon=github.svg&icon_color=%23DD2476&title=GitHub&edge_flat=false"/></a>
 
 ![NaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrskdusdlqslek&show_icons=true&theme=radical)
 
