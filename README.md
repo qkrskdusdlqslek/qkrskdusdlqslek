@@ -6,7 +6,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrskdusdlqslek&show_icons=true&theme=radical)
 
-
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qkrskdusdlqslek&layout=compact&langs_count=10&bg_color=45,dd5e89,f7bb97&title_color=ffffff&text_color=ffffff&hide_border=False" />
+  </a>
+</div>
 
 
 <!--
