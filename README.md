@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinklingfontSize=90&fontAlignY=50&fontAlign=50&height=180)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=90&fontAlignY=50&fontAlign=50&height=180" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=50" />
 
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
