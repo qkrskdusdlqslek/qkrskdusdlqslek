@@ -26,6 +26,8 @@
 
 🔨 Once I've used 🔨
 ---
+<img src="https://img.shields.io/badge/Visual Studio Code-1F96D2?style=for-the-badge&logo=&logoColor="/>
+
 
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
