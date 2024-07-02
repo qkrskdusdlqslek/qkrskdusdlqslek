@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=52" />
 
-<a href="https://www.naver.com/" target="text me"><img src="https://img.shields.io/badge/4169E1?style=social&logo=EA4335&logoColor=4169E1"/></a>
+<a href="https://www.naver.com/" target="text me"><img src="https://img.shields.io/badge/4169E1?style=plastic&logo=EA4335&logoColor=4169E1"/></a>
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
