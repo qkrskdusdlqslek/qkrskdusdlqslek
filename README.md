@@ -3,6 +3,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.naver.com%2Fqkrskdus7979&count_bg=%23DF3B68&title_bg=%23000000&icon=gmail.svg&icon_color=%23DF3B68&title=EMAIL&edge_flat=false"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrskdusdlqslek&show_icons=true&theme=radical)
+[![EMAIL Badge](https://img.shields.io/badge/-Facebook-1877f2?logo=mail&logoColor=white&link={qkrskdus7979@naver.com})]({qkrskdus7979@naver.com)})
 
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
