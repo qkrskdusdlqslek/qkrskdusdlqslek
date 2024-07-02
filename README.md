@@ -6,7 +6,7 @@
 
 ![NaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkrskdusdlqslek&show_icons=true&theme=radical)
 
-<a href="[https://hits.seeyoufarm.com](https://www.naver.com/)"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.naver.com&count_bg=%23DF3B68&title_bg=%23000000&icon=gmail.svg&icon_color=%23F71F63&title=qkrskdus7979%40naver.com&edge_flat=false"/></a>
+<a href="https://www.naver.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.naver.com&count_bg=%23DF3B68&title_bg=%23000000&icon=gmail.svg&icon_color=%23F71F63&title=qkrskdus7979%40naver.com&edge_flat=false"/></a>
 ---
 
 <div align = "center">
