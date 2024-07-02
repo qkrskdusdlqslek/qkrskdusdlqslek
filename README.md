@@ -24,7 +24,7 @@
 
 🔨 Once I've used 🔨
 ---
-https://camo.githubusercontent.com/b2e19478fc17e8aabab46e7331db93e1742cb01203103939e130e2ffe689f6c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d3739353242333f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465
+
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
