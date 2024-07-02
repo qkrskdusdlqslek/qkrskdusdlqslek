@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=52" />
 
 <a href="https://www.naver.com/" target="text me"><img src="https://img.shields.io/badge/4169E1?style=plastic&logo=EA4335&logoColor=4169E1"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
