@@ -26,7 +26,7 @@
 
 🔨 Once I've used 🔨
 ---
-<img src="https://img.shields.io/badge/Visual Studio Code-1F96D2?style=for-the-badge&logo=&logoColor="/>  <img src="https://img.shields.io/badge/Visual Studio 2022-9A31DE?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-1F96D2?style=for-the-badge&logo=&logoColor="/>  <img src="https://img.shields.io/badge/Visual Studio 2022-9A31DE?style=for-the-badge&logo=&logoColor="/>  <img src="https://img.shields.io/badge/SQL Server Management Studio 20-17930A?style=for-the-badge&logo=&logoColor="/> <img src="https://img.shields.io/badge/Qt Designer-6FDA64?style=for-the-badge&logo=Qt&logoColor=black"/>   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=black"/>  
 
 
 
