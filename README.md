@@ -15,12 +15,15 @@
 <a href="https://www.naver.com/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.naver.com&count_bg=%23DF3B68&title_bg=%23000000&icon=gmail.svg&icon_color=%23F71F63&title=qkrskdus7979%40naver.com&edge_flat=false"/></a>
 ---
 
-<div align = "center">
+<div align = "left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qkrskdusdlqslek&layout=compact&langs_count=10&bg_color=45,dd5e89,f7bb97&title_color=ffffff&text_color=ffffff&hide_border=False" />
   </a>
 </div>
 
+
+🔨 Once I've used 🔨
+---
 
 <!--
 **qkrskdusdlqslek/qkrskdusdlqslek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
