@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm NaYeon🌱
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20NaYeon's%20GitHub%20👋&animation=twinkling&fontSize=52" />
 
