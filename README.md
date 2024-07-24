@@ -32,7 +32,6 @@
 | 기술분류 | 명세 |
 |:---:|:---:|
 |Visual Studio Code|Python 개발, 툴 사용법 습득|
-|Python| |
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
